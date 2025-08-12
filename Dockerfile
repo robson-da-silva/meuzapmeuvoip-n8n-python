@@ -1,5 +1,5 @@
 # Base oficial do n8n
-FROM n8nio/n8n:latest
+FROM n8nio/n8n:1.107.0
 
 # Instala Python 3 e pip
 USER root
